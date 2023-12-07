@@ -1,1 +1,1 @@
-"This is second.py" 
+print("This is second.py" )
